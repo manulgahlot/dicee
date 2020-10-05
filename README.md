@@ -1,1 +1,2 @@
 # dicee
+permalink: /index.html
